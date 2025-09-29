@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="">
       <div>
-        <p className="font-robotoBold text-5xl">Hello World</p>
+        <p className="">Hello World</p>
+        <h1>Hello World</h1>
       </div>
     </div>
   );
