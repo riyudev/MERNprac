@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+@theme {
+  --breakpoint-*: initial;
+  --breakpoint-laptop: 870px;
+  --breakpoint-tablet: 500px;
+
+  --font-robotoBold: roboto-bold;
+  --font-productSansLight: productsans-light;
+  --font-productSansReg: productsans-regular;
+  --font-productSansBold: productsans-bold;
+}
