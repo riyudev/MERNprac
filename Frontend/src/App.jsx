@@ -8,7 +8,7 @@ import toast from "react-hot-toast";
 
 function App() {
   return (
-    <div className="">
+    <div data-theme="forest" className="min-h-screen">
       <button className="btn btn-neutral">Neutral</button>
       <button className="btn btn-primary">Primary</button>
       <button className="btn btn-secondary">Secondary</button>
