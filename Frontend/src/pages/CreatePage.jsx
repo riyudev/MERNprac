@@ -3,7 +3,7 @@ import React from "react";
 function CreatePage() {
   return (
     <div>
-      <div></div>
+      <div>Hola</div>
     </div>
   );
 }
