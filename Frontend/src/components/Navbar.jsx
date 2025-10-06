@@ -6,7 +6,7 @@ import { FaPlus } from "react-icons/fa6";
 function Navbar() {
   return (
     <nav className="navbar bg-base-300 mb-4 shadow-lg">
-      <div className="max-w-7xl px-2 mx-auto w-full">
+      <div className="max-w-6xl px-2 mx-auto w-full">
         <div className="flex justify-between items-center">
           <h3>NoteApp</h3>
 

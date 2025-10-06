@@ -20,7 +20,7 @@
   ::before,
   ::backdrop,
   ::file-selector-button {
-    border-color: #d1d5db;
+    border-color: var(--color-green-700);
   }
 
   h1 {
@@ -40,7 +40,7 @@
   }
 
   h5 {
-    @apply font-productSansReg text-xl;
+    @apply font-productSansReg text-xl tracking-wider;
   }
 
   li,
